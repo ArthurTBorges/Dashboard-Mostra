@@ -1,0 +1,830 @@
+Abadia Dos Dourados,-18.4886,-47.3939
+Abaeté,-19.1561,-45.4456
+Abre Campo,-20.3000,-42.4736
+Acaiaca,-20.3594,-43.1428
+Açucena,-19.0628,-42.5469
+Água Boa,-17.9956,-46.5544
+Água Comprida,-19.9028,-48.0833
+Aguanil,-20.9544,-45.4008
+Águas Formosas,-17.0839,-40.9311
+Águas Vermelhas,-15.7469,-41.4614
+Aimorés,-19.5008,-41.0708
+Aiuruoca,-21.9778,-44.6058
+Alagoa,-22.1858,-44.7458
+Albertina,-22.4658,-46.3983
+Além Paraíba,-21.8833,-42.6942
+Alfenas,-21.4294,-45.9481
+Alfredo Vasconcelos,-21.1528,-43.4233
+Almenara,-16.1844,-40.6919
+Alpercata,-18.9339,-41.9981
+Alpinópolis,-20.8617,-46.3894
+Alterosa,-21.2367,-46.1567
+Alto Caparaó,-20.5014,-41.8725
+Alto Jequitibá,-20.4011,-41.9736
+Alto Rio Doce,-21.0244,-43.4100
+Alvarenga,-19.3361,-41.4261
+Alvinópolis,-20.1100,-43.0511
+Alvorada De Minas,-18.7278,-43.3533
+Amparo Do Serra,-20.5286,-42.9097
+Andradas,-22.0689,-46.5711
+Andrelândia,-21.7422,-44.3094
+Angelândia,-17.9519,-42.1597
+Antônio Carlos,-21.3253,-43.7439
+Antônio Dias,-19.6525,-42.8744
+Antônio Prado De Minas,-21.2747,-42.7450
+Araçaí,-18.9997,-44.2611
+Aracitaba,-21.5064,-43.5583
+Araçuaí,-16.8492,-42.0608
+Araguari,-18.6481,-48.1889
+Arantina,-21.9022,-44.3158
+Araponga,-20.6731,-42.5319
+Araporã,-18.4406,-49.1692
+Arapuá,-18.7286,-46.2328
+Araújos,-19.9372,-45.5197
+Araxá,-19.5931,-46.9411
+Arceburgo,-21.3622,-46.9422
+Arcos,-20.2817,-45.5394
+Areado,-21.3594,-46.1386
+Argirita,-21.6328,-42.9278
+Aricanduva,-17.8519,-42.4694
+Arinos,-15.9197,-46.1058
+Astolfo Dutra,-21.3128,-42.8622
+Ataléia,-18.0478,-41.1047
+Augusto De Lima,-18.1628,-44.2550
+Baependi,-21.9561,-44.8958
+Baldim,-19.2769,-43.9786
+Bambuí,-20.0244,-45.9811
+Bandeira,-15.8631,-40.5814
+Bandeira Do Sul,-21.7411,-46.3558
+Barão De Cocais,-19.9467,-43.4797
+Barão De Monte Alto,-21.2386,-42.5350
+Barbacena,-21.2261,-43.7736
+Barra Longa,-20.2800,-42.9708
+Barroso,-21.1803,-43.9786
+Bela Vista De Minas,-19.8269,-43.1003
+Belmiro Braga,-21.9556,-43.3619
+Belo Horizonte,-19.9167,-43.9345
+Belo Oriente,-19.2361,-42.4736
+Belo Vale,-20.4169,-44.0228
+Berilo,-16.9664,-42.4678
+Berizal,-15.5469,-41.4014
+Bertópolis,-15.0044,-40.5883
+Betim,-19.9678,-44.1983
+Bias Fortes,-21.5950,-43.5922
+Bicas,-21.7289,-43.0608
+Biquinhas,-18.9844,-45.5811
+Boa Esperança,-21.0928,-45.5614
+Bocaina De Minas,-22.1456,-44.3792
+Bocaiuva,-17.1119,-43.8175
+Bom Despacho,-19.7317,-45.2522
+Bom Jesus Da Penha,-20.8994,-46.4428
+Bom Jesus Do Amparo,-19.6825,-43.4622
+Bom Jesus Do Galho,-19.8339,-42.3172
+Bom Reiro De Minas,-22.2803,-44.8525
+Bom Sucesso,-21.0361,-44.7608
+Bonfim,-20.3353,-44.2586
+Bonfinópolis De Minas,-16.5703,-46.0181
+Bonito De Minas,-15.3303,-44.7614
+Borda Da Mata,-22.2756,-46.1619
+Botelhos,-21.6389,-46.3978
+Botumirim,-16.8789,-43.0278
+Brás Pires,-20.8886,-43.2136
+Brasilândia De Minas,-16.9956,-45.6003
+Brasília De Minas,-16.2011,-44.4292
+Brumadinho,-20.1422,-44.2028
+Bueno Brandão,-22.4694,-46.3342
+Buenópolis,-17.8919,-44.1744
+Bugre,-19.5172,-42.2864
+Buritis,-15.6167,-46.4222
+Buritizeiro,-17.3506,-44.9614
+Cabeceira Grande,-15.9853,-46.7936
+Cabo Verde,-21.4717,-46.3975
+Cachoeira Da Prata,-19.6128,-44.5981
+Cachoeira De Minas,-22.3503,-45.7847
+Cachoeira De Pajeú,-15.7522,-41.0219
+Cachoeira Dourada,-18.5058,-49.4747
+Caetanópolis,-19.3042,-44.4208
+Caeté,-19.8811,-43.6683
+Caiana,-20.6942,-42.0494
+Caldas,-21.9197,-46.3769
+Camacho,-20.6803,-45.5508
+Camanducaia,-22.7561,-46.1500
+Cambuí,-22.6103,-46.0542
+Cambuquira,-21.8586,-45.2917
+Campanário,-18.3864,-41.5286
+Campanha,-21.8353,-45.3981
+Campestre,-21.7022,-46.2436
+Campina Verde,-19.5336,-49.4903
+Campo Azul,-16.0928,-44.2083
+Campo Belo,-20.8975,-45.2750
+Campo Do Meio,-21.1144,-45.8303
+Campo Florido,-19.7353,-48.5725
+Campos Altos,-19.6942,-46.1714
+Campos Gerais,-21.2369,-45.7575
+Canaã,-20.3447,-43.0408
+Canápolis,-18.7236,-49.2022
+Cana Verde,-20.8144,-45.5611
+Candeias,-20.7717,-45.2764
+Candidópolis,-17.5531,-42.4936
+Caparaó,-20.5258,-41.9047
+Capela Nova,-21.0486,-43.6347
+Capelinha,-17.6939,-42.5181
+Capetinga,-20.6217,-47.0617
+Capim Branco,-19.5286,-44.1186
+Capinópolis,-18.6853,-49.5694
+Capitão Andrade,-19.0386,-41.6081
+Capitão Enéas,-16.3186,-43.7119
+Capitólio,-20.6192,-46.0447
+Caraí,-17.1875,-41.7064
+Carangola,-20.7333,-42.0267
+Caratinga,-19.7839,-42.1386
+Carbonita,-17.5289,-43.0164
+Careaçu,-22.0556,-45.7753
+Carlos Chagas,-17.6983,-40.7583
+Carmésia,-18.9897,-43.1475
+Carmo Da Cachoeira,-21.4381,-45.2297
+Carmo Da Mata,-20.5614,-44.8756
+Carmo De Minas,-22.0967,-45.1253
+Carmo Do Cajuru,-20.1856,-44.7619
+Carmo Do Paranaíba,-19.0069,-46.3133
+Carmo Do Rio Claro,-21.0347,-46.1178
+Carmópolis De Minas,-20.5572,-44.6369
+Carneirinho,-19.7386,-50.0317
+Carrancas,-21.4883,-44.6411
+Carvalhópolis,-21.3631,-45.9786
+Carvalhos,-22.2322,-44.7772
+Casa Grande,-21.4456,-43.8294
+Cascalho Rico,-18.5086,-47.8564
+Cássia,-20.5683,-47.0547
+Cataguases,-21.3886,-42.6944
+Catuti,-15.3219,-43.9811
+Caxambu,-21.9764,-44.9314
+Cedro Do Abaeté,-18.9344,-45.7211
+Central De Minas,-18.8619,-41.9739
+Chácara,-21.7211,-43.1783
+Chalé,-20.3497,-41.7422
+Chapada Do Norte,-17.0444,-42.6019
+Chapada Gaúcha,-15.2536,-45.6367
+Chiador,-21.9692,-43.0564
+Cipotânea,-20.9267,-43.3322
+Claraval,-20.3953,-47.3111
+Claro Dos Poções,-16.7769,-44.1647
+Cláudio,-20.4461,-44.7711
+Coimbra,-20.8575,-42.8014
+Coluna,-18.2208,-42.6833
+Comendador Gomes,-19.6972,-49.0661
+Conceição Da Aparecida,-21.0508,-46.2025
+Conceição Da Barra De Minas,-21.0633,-44.5636
+Conceição Das Alagoas,-19.9183,-48.3872
+Conceição Das Pedras,-22.3089,-45.5494
+Conceição De Ipanema,-20.1283,-42.2128
+Conceição Do Mato Dentro,-19.0214,-43.4244
+Conceição Do Para,-19.9469,-45.0694
+Conceição Do Rio Verde,-21.8667,-45.0744
+Conceição Dos Ouros,-22.4031,-45.7828
+Cônego Marinho,-15.5094,-44.4133
+Confins,-19.6286,-43.9844
+Congonhal,-22.1669,-45.9286
+Congonhas,-20.5011,-43.8572
+Congonhas Do Norte,-18.9631,-43.7033
+Conselheiro Lafaiete,-20.6603,-43.7869
+Conselheiro Pena,-19.1711,-41.4703
+Consolação,-22.2819,-45.8100
+Contagem,-19.9317,-44.0539
+Coqueiral,-21.1894,-45.4381
+Coração De Jesus,-16.6878,-44.3622
+Cordisburgo,-19.1219,-44.3583
+Cordislândia,-21.7325,-45.8531
+Corinto,-18.3753,-44.4525
+Coroaci,-18.6256,-42.6258
+Coromandel,-18.4742,-47.1989
+Coronel Fabriciano,-19.5178,-42.6286
+Coronel Murta,-16.6161,-42.2006
+Coronel Pacheco,-21.5489,-43.2561
+Coronel Xavier Chaves,-21.0428,-44.0258
+Córrego Danta,-19.7519,-45.6044
+Córrego Do Bom Jesus,-22.4506,-45.8867
+Córrego Fundo,-20.4144,-45.5178
+Córrego Novo,-19.4658,-42.1564
+Couto De Magalhães De Minas,-18.0753,-43.2617
+Crisólita,-17.2097,-41.1564
+Cristais,-20.8592,-45.4958
+Cristália,-16.7375,-42.8647
+Cristiano Otoni,-21.1111,-43.6283
+Cristina,-22.2178,-45.3281
+Crucilândia,-20.3997,-44.3094
+Cruzeiro Da Fortaleza,-18.7822,-47.3025
+Cruzília,-21.8281,-44.8022
+Cuparaque,-19.0117,-41.6489
+Curral De Dentro,-15.5636,-42.4092
+Curvelo,-18.7567,-44.4314
+Datas,-18.4439,-43.6592
+Delfim Moreira,-22.4933,-45.2753
+Delfinópolis,-20.3431,-46.8547
+Delta,-19.9711,-47.7806
+Descoberto,-21.5981,-42.9486
+Desterro De Entre Rios,-20.7044,-43.9861
+Desterro Do Melo,-21.2664,-43.5661
+Diamantina,-18.2411,-43.6003
+Diogo De Vasconcelos,-20.5308,-43.2339
+Dionísio,-19.5033,-42.7764
+Divinésia,-21.0978,-42.9781
+Divino,-20.6478,-42.1500
+Divino Das Laranjeiras,-18.9939,-41.3733
+Divinolândia De Minas,-18.5681,-42.6439
+Divinópolis,-20.1389,-44.8839
+Divisa Alegre,-15.6897,-41.0197
+Divisa Nova,-21.4783,-46.6131
+Divisópolis,-15.9744,-41.2758
+Dom Bosco,-16.0881,-46.2781
+Dom Cavati,-19.3822,-42.2889
+Dom Joaquim,-18.9583,-43.2708
+Dom Silvério,-20.6539,-42.9614
+Dom Viçoso,-22.2294,-45.6650
+Dona Euzébia,-21.5881,-42.8025
+Dores De Campos,-21.1156,-44.1828
+Dores De Guanhães,-18.9603,-42.9439
+Dores Do Indaiá,-19.4622,-45.5906
+Dores Do Turvo,-21.0044,-43.2744
+Doresópolis,-20.2822,-45.9028
+Douradoquara,-18.4186,-47.5989
+Durandé,-20.3908,-41.8522
+Elói Mendes,-21.6261,-45.5769
+Engenheiro Caldas,-19.2314,-42.2814
+Engenheiro Navarro,-17.2703,-43.9533
+Entre Folhas,-19.4639,-42.0514
+Entre Rios De Minas,-20.6697,-44.0933
+Ervália,-20.8397,-42.6531
+Esmeraldas,-19.7619,-44.3131
+Espera Feliz,-20.6489,-41.9094
+Espinosa,-14.9211,-42.8119
+Espírito Santo Do Dourado,-22.2983,-45.9536
+Estiva,-22.4561,-46.0106
+Estrela Dalva,-21.7644,-42.6494
+Estrela Do Indaiá,-19.5444,-45.7506
+Estrela Do Sul,-18.7264,-47.6961
+Eugenópolis,-21.2392,-42.2125
+Ewbank Da Câmara,-21.4397,-43.4644
+Extrema,-22.8556,-46.3158
+Fama,-21.4011,-45.7019
+Faria Lemos,-20.6528,-42.0022
+Felício Dos Santos,-17.8211,-42.7411
+São Gonçalo Do Rio Preto,-18.0256,-43.3728
+Felisburgo,-16.6503,-40.6439
+Felixlândia,-18.7497,-45.1611
+Fernandes Tourinho,-19.2181,-42.1811
+Ferros,-19.2406,-42.9972
+Fervedouro,-20.6047,-42.2028
+Florestal,-19.8878,-44.4286
+Formiga,-20.4647,-45.4275
+Formoso,-14.9417,-46.2519
+Fortaleza De Minas,-20.8133,-46.7886
+Fortuna De Minas,-19.5872,-44.4747
+Francisco Badaró,-16.9931,-42.3625
+Francisco Dumont,-17.3400,-44.2469
+Francisco Sá,-16.4756,-43.4939
+Franciscópolis,-17.9519,-42.0017
+Frei Gaspar,-17.8278,-41.4339
+Frei Inocêncio,-18.5589,-41.9094
+Frei Lagonegro,-17.7703,-42.4119
+Fronteira,-20.2872,-49.2367
+Fronteira Dos Vales,-16.0947,-41.3981
+Fruta De Leite,-16.1208,-42.5336
+Frutal,-20.0225,-48.9406
+Funilândia,-19.3678,-44.1236
+Galiléia,-19.0097,-41.5444
+Gameleiras,-14.9875,-43.1358
+Glaucilândia,-16.8314,-43.8167
+Goiabeira,-19.1914,-41.6278
+Goianá,-21.4706,-43.2503
+Gonçalves,-22.6519,-45.8503
+Gonzaga,-18.7919,-42.5644
+Gouveia,-18.4522,-43.7422
+Governador Valadares,-18.8511,-41.9494
+Grão Mogol,-16.5681,-42.8903
+Grupiara,-18.4650,-47.7400
+Guanhães,-18.7783,-42.9444
+Guapé,-20.7628,-45.9206
+Guaraciaba,-20.5169,-42.9297
+Guaraciama,-17.0353,-44.0661
+Guaranésia,-21.3014,-46.7978
+Guarani,-21.3694,-43.0414
+Guarará,-21.7197,-43.0839
+Guarda-Mor,-17.7747,-47.0869
+Guaxupé,-21.3056,-46.7108
+Guidoval,-21.1658,-42.7936
+Guimarânia,-18.6503,-47.8092
+Guiricema,-21.0256,-43.0153
+Gurinhatã,-19.2422,-49.7753
+Heliodora,-22.0569,-45.4000
+Iapu,-19.4300,-42.2328
+Ibertioga,-21.4808,-44.0308
+Ibiá,-19.4775,-46.5383
+Ibiaí,-16.8528,-44.8742
+Ibiracatu,-16.1494,-43.9806
+Ibiraci,-20.4575,-47.1528
+Ibirité,-20.0214,-44.0586
+Ibitiúra De Minas,-21.9281,-46.4322
+Ibituruna,-21.1500,-44.8767
+Icaraí De Minas,-16.2022,-44.9003
+Igarapé,-20.0672,-44.3025
+Igaratinga,-20.0608,-44.7894
+Iguatama,-20.1736,-45.7122
+Ijaci,-21.1703,-44.9222
+Ilicínea,-20.9461,-45.8308
+Imbé De Minas,-19.7381,-41.9894
+Inconfidentes,-22.3211,-46.3286
+Indaiabira,-15.6303,-42.9361
+Indianápolis,-19.3406,-47.9178
+Ingaí,-21.3244,-44.7839
+Inhapim,-19.5461,-42.1111
+Inhaúma,-19.4917,-44.3911
+Inimutaba,-18.7233,-44.3628
+Ipaba,-19.4050,-42.4278
+Ipanema,-19.7439,-41.7183
+Ipatinga,-19.4683,-42.5370
+Ipiaçu,-18.6936,-49.9553
+Ipuiúna,-22.0717,-46.2117
+Iraí De Minas,-18.9872,-47.4636
+Itabira,-19.6181,-43.2261
+Itabirinha,-19.1094,-41.2928
+Itabirito,-20.2533,-43.8008
+Itacambira,-17.0647,-43.3033
+Itacarambi,-15.1100,-44.0814
+Itaguara,-20.3961,-44.4869
+Itaipé,-17.4267,-41.5781
+Itajubá,-22.4261,-45.4525
+Itamarandiba,-17.8619,-42.8597
+Itamarati De Minas,-21.9006,-42.9194
+Itambacuri,-18.0281,-41.6853
+Itambé Do Mato Dentro,-19.4253,-43.2011
+Itamogi,-21.0939,-46.6056
+Itamonte,-22.2819,-44.8631
+Itanhandu,-22.2978,-44.9333
+Itanhomi,-19.1678,-41.8897
+Itaobim,-16.5533,-41.4917
+Itapagipe,-19.9136,-49.3736
+Itapecerica,-20.4728,-45.1217
+Itapeva,-22.7144,-46.0072
+Itatiaiuçu,-20.2231,-44.4531
+Itaú De Minas,-20.7197,-46.7444
+Itaúna,-20.0747,-44.5758
+Itaverava,-20.6808,-43.6336
+Itinga,-16.6072,-41.7719
+Itueta,-19.3994,-41.3611
+Ituiutaba,-18.9667,-49.4639
+Itumirim,-21.3253,-44.8664
+Iturama,-19.7286,-50.1972
+Itutinga,-21.3078,-44.6522
+Jaboticatubas,-19.5139,-43.7453
+Jacinto,-16.1464,-40.2828
+Jacuí,-21.0128,-46.7350
+Jacutinga,-22.2892,-46.6100
+Jaguaraçu,-19.6022,-42.7817
+Jaíba,-15.3419,-43.6736
+Jampruca,-17.8844,-41.7228
+Janaúba,-15.8025,-43.3089
+Januária,-15.4894,-44.3619
+Japaraíba,-20.1622,-45.9528
+Japonvar,-16.6439,-43.8636
+Jeceaba,-20.5083,-43.9350
+Jenipapo De Minas,-17.0614,-42.2244
+Jequeri,-20.4561,-42.6728
+Jequitaí,-17.0614,-44.4339
+Jequitibá,-19.2300,-44.0381
+Jequitinhonha,-16.4350,-41.0078
+Jesuânia,-22.1344,-45.2897
+Joaíma,-16.6608,-41.0181
+Joanésia,-18.8814,-42.6706
+João Monlevade,-19.8125,-43.1728
+João Pinheiro,-17.7411,-46.1756
+Joaquim Felício,-17.7597,-44.1775
+Jordânia,-16.0006,-40.8786
+José Gonçalves De Minas,-16.4022,-42.7558
+José Raydan,-18.5697,-42.1094
+Josenópolis,-16.5433,-43.0839
+Juatuba,-19.9539,-44.3494
+Juiz De Fora,-21.7642,-43.3503
+Juramento,-16.8600,-43.6617
+Juruaia,-21.2494,-46.5792
+Juvenília,-14.2303,-44.1794
+Ladainha,-17.6250,-41.7361
+Lagamar,-18.1753,-46.8108
+Lagoa Da Prata,-20.0253,-45.5467
+Lagoa Dos Patos,-16.9928,-44.5656
+Lagoa Dourada,-20.9169,-44.0797
+Lagoa Formosa,-18.7744,-46.4072
+Lagoa Grande,-17.8617,-46.7014
+Lagoa Santa,-19.6306,-43.8886
+Lajinha,-20.1522,-41.6100
+Laranjal,-21.3875,-42.4769
+Lassance,-17.8878,-44.5736
+Lavras,-21.2450,-44.9997
+Leandro Ferreira,-19.8439,-45.0339
+Leme Do Prado,-17.0681,-42.6797
+Leopoldina,-21.5319,-42.6444
+Liberdade,-22.0247,-44.3133
+Lima Duarte,-21.8494,-43.7978
+Limeira Do Oeste,-19.5500,-50.5814
+Lontra,-16.1314,-44.2961
+Luisburgo,-20.2814,-41.9136
+Luislândia,-16.1078,-44.6822
+Luminárias,-21.5128,-44.9031
+Luz,-19.7767,-45.6778
+Machacalis,-17.0744,-40.7172
+Machado,-21.6736,-45.9269
+Madre De Deus De Minas,-21.4861,-44.3422
+Malacacheta,-17.8378,-42.0714
+Mamonas,-14.9308,-43.1003
+Manga,-14.7544,-43.9339
+Manhuaçu,-20.2583,-42.0294
+Manhumirim,-20.3722,-41.9622
+Mantena,-18.7736,-40.9858
+Mar De Espanha,-21.8728,-43.0058
+Maravilhas,-19.5278,-44.6053
+Maria Da Fé,-22.3064,-45.3789
+Mariana,-20.3772,-43.4156
+Marilac,-19.1439,-41.6633
+Mário Campos,-20.0533,-44.3631
+Maripá De Minas,-21.9144,-43.2222
+Marliéria,-19.7183,-42.7644
+Marmelópolis,-22.4439,-45.1592
+Martinho Campos,-19.3167,-45.2314
+Martins Soares,-20.2678,-42.0736
+Mata Verde,-15.9131,-40.5606
+Materlândia,-18.5344,-43.0517
+Mateus Leme,-20.0006,-44.4278
+Mathias Lobato,-18.5933,-41.5267
+Matias Barbosa,-21.8631,-43.3219
+Matias Cardoso,-14.8461,-43.9128
+Matipó,-20.2744,-42.3411
+Mato Verde,-15.4039,-42.8667
+Matozinhos,-19.5619,-44.0828
+Matutina,-19.2597,-46.2461
+Medeiros,-19.3297,-46.2353
+Medina,-16.2267,-41.4761
+Mendes Pimentel,-18.5881,-41.4483
+Mercês,-21.1928,-43.3547
+Mesquita,-19.2781,-42.6736
+Minas Novas,-17.2172,-42.5942
+Minduri,-21.6764,-44.6025
+Mirabela,-16.2658,-44.1653
+Miradouro,-21.3483,-42.3411
+Miraí,-21.2092,-42.5122
+Miravânia,-15.0800,-44.3483
+Moeda,-20.3536,-44.0636
+Moema,-20.6644,-45.6400
+Monjolos,-18.2978,-44.1403
+Monsenhor Paulo,-21.8328,-45.5036
+Montalvânia,-14.4156,-44.3772
+Monte Alegre De Minas,-18.8731,-48.8778
+Monte Azul,-15.1494,-42.8667
+Monte Belo,-21.3253,-46.3564
+Monte Carmelo,-18.7281,-47.5003
+Monte Formoso,-15.9653,-41.4572
+Monte Santo De Minas,-21.1925,-46.9731
+Monte Sião,-22.4314,-46.5694
+Montes Claros,-16.7286,-43.8614
+Montezuma,-15.1683,-42.4792
+Morada Nova De Minas,-18.5997,-45.3647
+Morro Da Garça,-18.5378,-44.6153
+Morro Do Pilar,-19.2181,-43.3756
+Munhoz,-22.6033,-46.3106
+Muriaé,-21.1303,-42.3664
+Mutum,-19.8111,-41.4289
+Muzambinho,-21.3717,-46.5261
+Nacip Raydan,-18.4869,-42.1889
+Nanuque,-17.8483,-40.3564
+Naque,-19.3703,-42.3194
+Natalândia,-16.4950,-46.5806
+Natércia,-22.3008,-45.5044
+Nazareno,-21.2258,-44.6125
+Nepomuceno,-21.2342,-45.2314
+Ninheira,-15.3567,-41.7258
+Nova Belém,-19.0047,-41.6033
+Nova Era,-19.7611,-43.0336
+Nova Lima,-19.9847,-43.8514
+Nova Módica,-18.6519,-41.7958
+Nova Ponte,-19.1383,-47.6786
+Nova Porteirinha,-15.7978,-43.2986
+Nova Resende,-21.1322,-46.4219
+Nova Serrana,-19.7175,-44.9897
+Nova União,-19.8675,-43.4592
+Novo Cruzeiro,-17.4731,-41.8783
+Novo Oriente De Minas,-17.3258,-41.3264
+Novorizonte,-16.2314,-42.9803
+Olaria,-21.8803,-43.9164
+Olímpio Noronha,-22.3406,-45.2561
+Oliveira,-20.6958,-44.8272
+Oliveira Fortes,-21.3978,-43.4894
+Onça De Pitangui,-19.4711,-44.9017
+Oratórios,-20.4228,-42.8089
+Orizânia,-20.4494,-42.0617
+Ouro Branco,-20.5228,-43.6983
+Ouro Fino,-22.2794,-46.3717
+Ouro Preto,-20.3856,-43.5036
+Ouro Verde De Minas,-18.7233,-41.8492
+Padre Carvalho,-16.1794,-43.4700
+Padre Paraíso,-17.0789,-41.4967
+Paineiras,-18.9814,-45.5311
+Pains,-20.3669,-45.6558
+Paiva,-21.4783,-43.4031
+Palma,-21.3761,-42.3203
+Palmópolis,-16.3497,-40.6869
+Papagaios,-19.4433,-44.7417
+Pará De Minas,-19.8608,-44.6108
+Paracatu,-17.2219,-46.8750
+Paraguaçu,-21.5469,-45.7361
+Paraisópolis,-22.5394,-45.7792
+Paraopeba,-19.2806,-44.4089
+Passa Quatro,-22.3872,-44.9686
+Passa Tempo,-20.6547,-44.4928
+Passa Vinte,-22.1192,-44.2317
+Passabém,-19.0953,-43.4489
+Passos,-20.7186,-46.6097
+Patis,-16.0758,-44.0797
+Patos De Minas,-18.5786,-46.5181
+Patrocínio,-18.9381,-46.9928
+Patrocínio Do Muriaé,-21.1833,-42.1119
+Paula Cândido,-20.9003,-42.8544
+Paulistas,-17.4281,-42.5489
+Pavão,-17.3978,-41.0072
+Peçanha,-18.5517,-42.5567
+Pedra Azul,-16.0061,-41.2844
+Pedra Bonita,-20.4131,-42.3233
+Pedra Do Anta,-20.5919,-42.8267
+Pedra Do Indaiá,-20.2556,-45.6108
+Pedra Dourada,-20.7242,-42.0942
+Pedralva,-22.2344,-45.4911
+Pedras De Maria Da Cruz,-15.6033,-44.3942
+Pedrinópolis,-19.2081,-47.4644
+Pedro Leopoldo,-19.6219,-44.0439
+Pedro Teixeira,-21.7283,-44.0311
+Pequeri,-21.8406,-43.1422
+Pequi,-19.3353,-44.1644
+Perdigão,-19.9392,-45.0883
+Perdizes,-19.3461,-47.2978
+Perdões,-21.0889,-45.0883
+Periquito,-19.2817,-42.4061
+Pescador,-17.7989,-42.7253
+Piau,-21.4744,-43.1539
+Piedade De Caratinga,-19.7244,-42.1294
+Piedade De Ponte Nova,-20.4286,-42.7036
+Piedade Do Rio Grande,-21.4228,-44.2014
+Piedade Dos Gerais,-20.4244,-44.2100
+Pimenta,-20.5011,-45.8547
+Pingo D'Água,-19.7381,-42.4006
+Pintópolis,-15.5222,-44.8556
+Piracema,-20.5311,-44.4156
+Pirajuba,-19.8928,-48.7597
+Piranga,-20.6867,-43.2939
+Piranguçu,-22.5869,-45.5058
+Piranguinho,-22.4106,-45.5242
+Pirapetinga,-21.6619,-42.3436
+Pirapora,-17.3381,-44.9439
+Piraúba,-21.1258,-43.0278
+Pitangui,-19.6839,-44.8989
+Piumhi,-20.4758,-45.9575
+Planura,-20.1306,-48.6928
+Poço Fundo,-21.7833,-45.9683
+Poços De Caldas,-21.7878,-46.5619
+Pocrane,-19.6200,-41.6661
+Pompéu,-19.2236,-45.0011
+Ponte Nova,-20.4156,-42.9094
+Ponto Chique,-16.7019,-45.0306
+Ponto Dos Volantes,-16.7006,-41.5019
+Porteirinha,-15.7400,-43.0219
+Porto Firme,-20.6753,-43.0819
+Poté,-17.8106,-41.7914
+Pouso Alegre,-22.2311,-45.9364
+Pouso Alto,-22.1953,-45.1747
+Prados,-21.0631,-44.0753
+Prata,-19.3072,-48.9228
+Pratápolis,-20.7244,-46.9339
+Pratinha,-19.4803,-46.3681
+Presidente Bernardes,-21.4872,-43.4694
+Presidente Juscelino,-18.6419,-44.0736
+Presidente Kubitschek,-18.6472,-43.5714
+Presidente Olegário,-18.4136,-46.4211
+Prudente De Morais,-19.4803,-44.1556
+Quartel Geral,-18.8478,-45.2056
+Queluzito,-20.9297,-44.1533
+Raul Soares,-20.1058,-42.4539
+Recreio,-21.5175,-42.4711
+Reduto,-20.4094,-42.0258
+Resende Costa,-21.2111,-44.2483
+Resplendor,-19.3231,-41.2494
+Riachinho,-16.1617,-45.9808
+Riacho Dos Machados,-16.0231,-43.0536
+Ribeirão Das Neves,-19.7669,-44.0875
+Ribeirão Vermelho,-21.3228,-45.0447
+Rio Acima,-20.0947,-43.7858
+Rio Casca,-20.2289,-42.6469
+Rio Do Prado,-16.6258,-40.5958
+Rio Doce,-20.2617,-43.2647
+Rio Espera,-20.8819,-43.4622
+Rio Manso,-20.2561,-44.3083
+Rio Novo,-21.4672,-43.1231
+Rio Paranaíba,-19.1828,-46.2469
+Rio Pardo De Minas,-15.6267,-42.5381
+Rio Piracicaba,-19.9308,-43.1739
+Rio Pomba,-21.2747,-43.1706
+Rio Preto,-22.0472,-43.8217
+Rio Vermelho,-18.2831,-43.0019
+Ritápolis,-21.0297,-44.3228
+Rochedo De Minas,-21.6175,-43.1014
+Rodeiro,-21.2039,-42.8614
+Romaria,-18.8858,-47.5672
+Rosário Da Limeira,-21.2078,-42.6981
+Rubelita,-16.4181,-41.9281
+Rubim,-16.3764,-40.5447
+Sabará,-19.8878,-43.8069
+Sabinópolis,-18.6656,-43.0825
+Sacramento,-19.8597,-47.4358
+Salinas,-16.1683,-42.2978
+Salto Da Divisa,-16.0039,-39.9450
+Santa Bárbara,-19.9619,-43.4158
+Santa Bárbara Do Leste,-19.7733,-42.0547
+Santa Bárbara Do Monte Verde,-21.9631,-43.7281
+Santa Bárbara Do Tugúrio,-21.2283,-43.4611
+Santa Cruz De Minas,-21.1242,-44.2303
+Santa Cruz De Salinas,-15.9656,-42.3150
+Santa Cruz Do Escalvado,-20.2419,-42.8558
+Santa Efigênia De Minas,-18.7094,-42.0556
+Santa Fé De Minas,-16.6903,-45.4139
+Santa Helena De Minas,-16.9808,-40.6367
+Santa Juliana,-19.3125,-47.5272
+Santa Luzia,-19.7706,-43.8511
+Santa Margarida,-20.3864,-42.2628
+Santa Maria De Itabira,-19.4439,-43.1275
+Santa Maria Do Salto,-16.2389,-40.1219
+Santa Maria Do Suaçuí,-18.1978,-42.4122
+Santa Rita De Caldas,-22.0300,-46.3281
+Santa Rita De Ibitipoca,-21.6753,-43.8914
+Santa Rita De Jacutinga,-22.1814,-44.3556
+Santa Rita De Minas,-19.8764,-42.0644
+Santa Rita Do Itueto,-19.4328,-41.5058
+Santa Rita Do Sapucaí,-22.2531,-45.7028
+Santa Rosa Da Serra,-19.1694,-46.0439
+Santa Vitória,-18.8442,-50.1181
+Santana Da Vargem,-21.2475,-45.4253
+Santana De Cataguases,-21.3736,-42.5997
+Santana De Pirapama,-19.0022,-44.1136
+Santana Do Deserto,-21.9519,-43.1575
+Santana Do Garambéu,-21.2583,-44.3461
+Santana Do Jacaré,-20.8883,-45.1361
+Santana Do Manhuaçu,-20.3181,-41.9508
+Santana Do Paraíso,-19.3725,-42.5325
+Santana Do Riacho,-19.1800,-43.7208
+Santana Dos Montes,-20.7939,-43.6978
+Santo Antônio Do Amparo,-20.9425,-44.9211
+Santo Antônio Do Aventureiro,-21.8022,-42.8733
+Santo Antônio Do Grama,-20.3869,-42.7214
+Santo Antônio Do Itambé,-18.4631,-43.3228
+Santo Antônio Do Jacinto,-16.5308,-40.7467
+Santo Antônio Do Monte,-20.0853,-45.2947
+Santo Antônio Do Retiro,-15.4328,-41.8878
+Santo Antônio Do Rio Abaixo,-19.1361,-43.3656
+Santo Hipólito,-18.2853,-44.2467
+Santos Dumont,-21.4611,-43.5508
+São Bento Abade,-21.5383,-45.0889
+São Brás Do Suaçuí,-20.6431,-43.9311
+São Domingos Das Dores,-19.5922,-42.1231
+São Domingos Do Prata,-19.8614,-42.9736
+São Félix De Minas,-18.7039,-41.3531
+São Francisco,-15.9461,-44.8639
+São Francisco De Paula,-21.0469,-42.8961
+São Francisco De Sales,-19.8631,-49.7675
+São Francisco Do Glória,-20.8189,-42.1978
+São Geraldo,-20.9228,-42.8739
+São Geraldo Da Piedade,-18.8931,-42.7283
+São Geraldo Do Baixio,-18.9794,-41.4978
+São Gonçalo Do Abaeté,-18.3394,-45.8456
+São Gonçalo Do Pará,-19.9914,-45.0500
+São Gonçalo Do Rio Abaixo,-19.8228,-43.3542
+São Gonçalo Do Sapucaí,-21.8908,-45.5903
+São Gotardo,-19.3133,-46.0472
+São João Batista Do Glória,-20.6286,-46.4767
+São João Da Lagoa,-16.8664,-44.2961
+São João Da Mata,-22.1536,-45.8528
+São João Da Ponte,-15.9289,-44.0244
+São João Das Missões,-14.8706,-44.0742
+São João Del Rei,-21.1303,-44.2592
+São João Do Manhuaçu,-20.3439,-42.1614
+São João Do Manteninha,-18.8681,-41.2442
+São João Do Oriente,-19.4728,-41.8017
+São João Do Pacuí,-16.0239,-44.3861
+São João Do Paraíso,-15.3061,-42.0119
+São João Evangelista,-18.5483,-42.7619
+São João Nepomuceno,-21.5386,-43.0119
+São Joaquim De Bicas,-20.0492,-44.3481
+São José Da Barra,-20.6711,-46.3075
+São José Da Lapa,-19.5858,-44.0433
+São José Da Safira,-18.4889,-42.1344
+São José Da Varginha,-19.8172,-44.5894
+São José Do Alegre,-22.4081,-45.4989
+São José Do Divino,-18.3703,-41.3106
+São José Do Goiabal,-19.9139,-42.6947
+São José Do Jacuri,-18.2278,-42.6217
+São José Do Mantimento,-20.2678,-41.8119
+São Lourenço,-22.1139,-45.0547
+São Miguel Do Anta,-20.7039,-42.9156
+São Pedro Da União,-21.1131,-46.5308
+São Pedro Do Suaçuí,-18.3847,-42.5908
+São Pedro Dos Ferros,-20.2033,-42.5303
+São Romão,-16.3678,-45.0831
+São Roque De Minas,-20.2397,-46.3708
+São Sebastião Da Bela Vista,-22.1131,-45.7572
+São Sebastião Da Vargem Alegre,-21.3558,-42.7394
+São Sebastião Do Anta,-19.7822,-41.9633
+São Sebastião Do Maranhão,-18.2269,-42.6558
+São Sebastião Do Oeste,-20.1342,-44.9836
+São Sebastião Do Paraíso,-20.9161,-46.9919
+São Sebastião Do Rio Preto,-20.0503,-43.2039
+São Sebastião Do Rio Verde,-22.1653,-45.0931
+São Thomé Das Letras,-21.7192,-44.9942
+São Tiago,-20.9028,-44.4989
+São Tomas De Aquino,-21.1025,-46.7225
+Sapucaí-Mirim,-22.7411,-45.7819
+Sardoá,-19.0347,-42.3708
+Sarzedo,-20.0311,-44.1383
+Sem-Peixe,-20.5369,-42.7928
+Senador Amaral,-22.5519,-46.1822
+Senador Cortes,-21.8467,-43.4461
+Senador Firmino,-20.9175,-43.1042
+Senador José Bento,-22.0253,-46.5347
+Senador Modestino Gonçalves,-17.9353,-42.8303
+Senhora De Oliveira,-20.8458,-43.4044
+Senhora Do Porto,-18.7456,-42.6208
+Senhora Dos Remédios,-21.0889,-43.5908
+Sericita,-20.5133,-42.4106
+Seritinga,-21.9069,-44.3606
+Serra Azul De Minas,-18.8514,-42.8153
+Serra Da Saudade,-19.5189,-45.8481
+Serra Dos Aimorés,-18.6833,-40.7803
+Serra Do Salitre,-19.1033,-46.6867
+Serrania,-21.6181,-46.0286
+Serranópolis De Minas,-15.9317,-42.8919
+Serranos,-22.0506,-44.3211
+Serro,-18.6078,-43.3769
+Sete Lagoas,-19.4592,-44.2469
+Setubinha,-17.5994,-42.0208
+Silveirânia,-21.2561,-43.0619
+Silvianópolis,-22.0117,-45.8297
+Simão Pereira,-21.7953,-43.3683
+Simonésia,-20.1208,-41.8694
+Sobrália,-19.1408,-42.0158
+Soledade De Minas,-22.0731,-45.0133
+Tabuleiro,-21.3194,-43.0733
+Taiobeiras,-15.8106,-42.2294
+Taparuba,-19.1722,-41.7858
+Tapira,-19.9028,-46.8256
+Tapiraí,-20.1878,-45.0086
+Taquaraçu De Minas,-19.8983,-43.5083
+Tarumirim,-19.2772,-42.0033
+Teixeiras,-20.6300,-42.8614
+Teófilo Otoni,-17.8592,-41.5056
+Timóteo,-19.5833,-42.6461
+Tiradentes,-21.1150,-44.1758
+Tocos Do Moji,-22.2483,-46.1658
+Toledo,-22.7219,-46.3886
+Tombos,-20.9019,-42.0178
+Três Corações,-21.6928,-45.2564
+Três Marias,-18.2058,-45.2469
+Três Pontas,-21.3681,-45.5119
+Tumiritinga,-19.0197,-41.6361
+Tupaciguara,-18.5911,-48.6978
+Turmalina,-17.2850,-42.7278
+Turvolândia,-21.9328,-45.6197
+Ubá,-21.1200,-42.9428
+Ubaí,-16.2683,-44.7736
+Ubaporanga,-19.6028,-42.0181
+Uberaba,-19.7472,-47.9381
+Uberlândia,-18.9186,-48.2772
+Umburatiba,-17.1111,-41.0478
+Unaí,-16.3619,-46.9044
+União De Minas,-19.5592,-50.4631
+Uruana De Minas,-16.2803,-46.1814
+Urucânia,-20.3194,-42.8311
+Urucuia,-16.1208,-45.7244
+Vargem Alegre,-19.5847,-42.0736
+Vargem Bonita,-20.3289,-46.3825
+Vargem Grande Do Rio Pardo,-15.9022,-42.8011
+Varginha,-21.5514,-45.4306
+Varjão De Minas,-18.3769,-46.0139
+Várzea Da Palma,-17.5986,-44.7281
+Varzelândia,-15.7019,-44.0253
+Vazante,-17.9856,-46.9097
+Verdelândia,-15.7028,-43.6003
+Veredinha,-17.2694,-42.6628
+Veríssimo,-19.6964,-48.3044
+Vermelho Novo,-19.2014,-42.0600
+Vespasiano,-19.6953,-44.0436
+Viçosa,-20.7561,-42.8822
+Vieiras,-20.6517,-42.1394
+Virginópolis,-18.8339,-42.7072
+Virgínia,-22.3289,-45.1039
+Virgolândia,-18.4981,-42.4869
+Visconde Do Rio Branco,-21.0089,-42.8358
+Volta Grande,-21.7783,-42.4656
+Wenceslau Braz,-22.5967,-45.4133

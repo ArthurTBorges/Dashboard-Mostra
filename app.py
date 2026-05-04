@@ -474,7 +474,7 @@ if dados_ok:
             df_escolas_ano = (
                 df.dropna(subset=["Ano", col_escola])
                 .groupby("Ano")[col_escola]
-                .nunique()
+                .count()
                 .reset_index()
                 .rename(columns={col_escola: "Total_Escolas"})
                 .sort_values("Ano")
@@ -482,8 +482,8 @@ if dados_ok:
             df_escolas_ano["Ano"] = df_escolas_ano["Ano"].astype(int)
             anos_ticks = df_escolas_ano["Ano"].tolist()
 
-            total_escolas = df[col_escola].dropna().nunique()
-            st.metric("Total de escolas distintas (todos os anos)", total_escolas)
+            total_escolas = df[col_escola].dropna().count()
+            st.metric("Total de visitas de escolas (todos os anos)", total_escolas)
 
             BLUES_PALETTE = [
                 "#03045e",
@@ -902,7 +902,7 @@ if dados_ok:
             col1, col2, col3 = st.columns(3)
             col1.metric("Total de registros", len(df))
             col2.metric("Total de alunos", int(df["Qtd_Alunos"].sum()))
-            col3.metric("Escolas únicas", df[col_escola].nunique())
+            col3.metric("Total de visitas de escolas", df[col_escola].dropna().count())
             
             st.divider()
             

@@ -358,7 +358,7 @@ except FileNotFoundError:
 if dados_ok:
     pagina = st.sidebar.radio(
         "Navegação",
-        ["📊 Alunos por Ano", "🗺️ Alunos por Cidade", "🏫 Alunos por Escola", "🎯 Mostra 2025", "📋 Dados Gerais"],
+        ["📊 Alunos por Ano", "🏫 Escolas por ano", "🗺️ Alunos por Cidade", "🏫 Alunos por Escola", "🎯 Mostra 2025", "📋 Dados Gerais"],
         index=0
     )
 
@@ -458,7 +458,100 @@ if dados_ok:
             st.dataframe(df_ano, use_container_width=True)
 
     # ==============================
-    # PÁGINA 2 — ALUNOS POR CIDADE
+    # PÁGINA 2 — ESCOLAS POR ANO
+    # ==============================
+    elif pagina == "🏫 Escolas por ano":
+        st.title("🏫 Escolas por ano")
+
+        if col_escola is None:
+            st.warning("Nenhuma coluna de escola foi encontrada no CSV. Adicione uma coluna como 'Escola' ou 'Instituição' para visualizar esta página.")
+        elif "Ano" not in df.columns or df["Ano"].isna().all():
+            st.warning(
+                "Nenhuma coluna de data foi encontrada no CSV. "
+                "Adicione uma coluna com datas (ex: 'Data da visita') para ver este gráfico."
+            )
+        else:
+            # Contagem de escolas únicas por ano
+            df_escolas_ano = (
+                df.dropna(subset=[col_escola, "Ano"])
+                .groupby("Ano")[col_escola]
+                .nunique()
+                .reset_index()
+                .rename(columns={col_escola: "Total_Escolas"})
+                .sort_values("Ano")
+            )
+            
+            if df_escolas_ano.empty:
+                st.info("Nenhum dado disponível para exibir o gráfico de escolas por ano.")
+            else:
+                df_escolas_ano["Ano"] = df_escolas_ano["Ano"].astype(int)
+                anos_ticks = df_escolas_ano["Ano"].tolist()
+                
+                # Métrica: total de escolas únicas no período
+                total_escolas = df[col_escola].nunique()
+                st.metric("Total de escolas únicas (todos os anos)", total_escolas)
+                
+                # Paleta de azuis (mesma paleta da página de alunos por ano)
+                BLUES_PALETTE = [
+                    "#03045e", "#0077b6", "#00b4d8", "#48cae4", "#023e8a",
+                    "#0096c7", "#90e0ef", "#caf0f8", "#4361ee", "#4895ef"
+                ]
+                cores_anos = {
+                    str(ano): BLUES_PALETTE[i % len(BLUES_PALETTE)]
+                    for i, ano in enumerate(df_escolas_ano["Ano"].tolist())
+                }
+                df_escolas_ano["Ano_str"] = df_escolas_ano["Ano"].astype(str)
+                
+                fig = px.bar(
+                    df_escolas_ano,
+                    x="Ano_str",
+                    y="Total_Escolas",
+                    text="Total_Escolas",
+                    title="Número de Escolas por Ano",
+                    labels={"Ano_str": "Ano", "Total_Escolas": "Número de Escolas"},
+                    color="Ano_str",
+                    color_discrete_map=cores_anos,
+                )
+                fig.update_traces(textposition="outside")
+                fig.update_layout(
+                    showlegend=False,
+                    plot_bgcolor="rgba(0,0,0,0)",
+                    xaxis=dict(
+                        title="Ano",
+                        categoryorder="array",
+                        categoryarray=[str(a) for a in anos_ticks],
+                    ),
+                    yaxis=dict(gridcolor="rgba(0,0,0,0.08)", tickformat="d")
+                )
+                st.plotly_chart(fig, use_container_width=True)
+                
+                # Linha de tendência (se houver mais de 2 anos)
+                if len(df_escolas_ano) > 2:
+                    fig2 = px.line(
+                        df_escolas_ano,
+                        x="Ano",
+                        y="Total_Escolas",
+                        markers=True,
+                        title="Tendência de Escolas ao Longo dos Anos",
+                        labels={"Ano": "Ano", "Total_Escolas": "Número de Escolas"},
+                    )
+                    fig2.update_layout(
+                        plot_bgcolor="rgba(0,0,0,0)",
+                        xaxis=dict(
+                            tickmode="array",
+                            tickvals=anos_ticks,
+                            ticktext=[str(a) for a in anos_ticks],
+                            dtick=1,
+                        ),
+                        yaxis=dict(tickformat="d")
+                    )
+                    st.plotly_chart(fig2, use_container_width=True)
+                
+                st.subheader("Tabela resumo")
+                st.dataframe(df_escolas_ano, use_container_width=True)
+
+    # ==============================
+    # PÁGINA 3 — ALUNOS POR CIDADE
     # ==============================
     elif pagina == "🗺️ Alunos por Cidade":
         st.title("🗺️ Alunos por Cidade")
@@ -795,7 +888,7 @@ if dados_ok:
             )
 
     # ==============================
-    # PÁGINA 3 — ALUNOS POR ESCOLA
+    # PÁGINA 4 — ALUNOS POR ESCOLA
     # ==============================
     elif pagina == "🏫 Alunos por Escola":
         st.title("🏫 Alunos por Escola")
@@ -1012,7 +1105,7 @@ if dados_ok:
                 st.plotly_chart(fig_bar_escola, use_container_width=True)
 
     # ==============================
-    # PÁGINA 4 — MOSTRA 2025
+    # PÁGINA 5 — MOSTRA 2025
     # ==============================
     elif pagina == "🎯 Mostra 2025":
         st.title("🎯 Mostra 2025")
@@ -1230,7 +1323,7 @@ if dados_ok:
                     st.info("Colunas de anos por nivel de ensino nao encontradas.")
 
     # ==============================
-    # PÁGINA 5 — DADOS GERAIS
+    # PÁGINA 6 — DADOS GERAIS
     # ==============================
     elif pagina == "📋 Dados Gerais":
         st.title("📋 Dados Gerais")
